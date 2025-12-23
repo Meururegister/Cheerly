@@ -1,0 +1,7 @@
+{
+  "name": "GitProfile Builder",
+  "description": "A professional tool to generate high-quality personal portfolio pages for GitHub Pages with AI-enhanced content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
